@@ -8,6 +8,14 @@
 
 *Gestiona jugadores, equipos, partidos, entrenamientos, tarjetas, multas y rendimiento desde un único panel de control.*
 
+<img width="1361" height="641" alt="image" src="https://github.com/user-attachments/assets/d764ca40-1ea1-41e5-a078-8b36328ee1e3" />
+
+<img width="1067" height="609" alt="image" src="https://github.com/user-attachments/assets/e161f2cd-814b-438d-bdd1-c1ba0ab38b1c" />
+
+<img width="1087" height="612" alt="image" src="https://github.com/user-attachments/assets/3093e9c3-e36b-4bc8-ba26-d466977fe555" />
+
+<img width="1066" height="551" alt="image" src="https://github.com/user-attachments/assets/495eaca4-a4dd-4c0b-b319-ef411a1abeb6" />
+
 ---
 
 </div>
