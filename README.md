@@ -45,7 +45,7 @@
 - 📱 **Diseño responsive** — funciona en escritorio, tablet y móvil
 - 🎨 **Interfaz moderna** — tema oscuro con paleta personalizada
 - 🔒 **Seguro por defecto** — bcrypt, sesiones estrictas, cabeceras de seguridad HTTP
-- 🌍 **Multi-entorno** — funciona en raíz `/` o en subdirectorio `/clubmanager/` automáticamente
+- 🌍 **Multi-entorno** — funciona en raíz `/` o en subdirectorio `/team-manager/` automáticamente
 - 🗄️ **Base de datos relacional** — esquema normalizado con foreign keys e integridad referencial
 
 ---
