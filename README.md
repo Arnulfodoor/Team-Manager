@@ -176,7 +176,7 @@ Todos los endpoints son internos (requieren sesión activa) y se invocan desde `
 | `GET` | `?entity=estadisticas` | Estadísticas de temporada |
 | `GET/POST/PUT/DELETE` | `?entity=usuarios` | CRUD admins (superadmin/admin) |
 
-📖 Ver documentación completa de cada endpoint en [DOCUMENTATION.md](DOCUMENTATION.md).
+📖 Ver documentación completa de cada endpoint en [DOCUMENTATION.md](https://github.com/Arnulfodoor/Team-Manager/blob/main/documentation.md).
 
 ---
 
